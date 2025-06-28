@@ -1,0 +1,48 @@
+🚨 CRIMINAL INTELLIGENCE REPORT - CDR ANALYSIS
+Generated: 2025-06-28 14:32:37
+Analysis Type: Comprehensive Criminal Pattern Detection
+============================================================
+
+🚨 CRITICAL ANOMALIES DETECTED
+
+2. Odd Hour Activity (Covert Operations)
+   🔴 Danial Srikakulam_9309347633: 4.5% of calls between midnight-5AM
+   This suggests secretive/illegal coordination activities
+
+3. Suspicious Communication Patterns
+   🔴 Danial Srikakulam_9309347633: 100% voice calls, 0 SMS
+   Indicates avoiding traceable text communications
+
+📊 SUSPECT RISK RANKING
+
+| Suspect | Risk Level | Primary Indicators |
+|---------|------------|-------------------|
+| Danial Srikakulam_9309347633 | 🟡 MEDIUM | 4.5% odd hours - covert pattern, Voice-only communication |
+| Varshith_9704444251 | 🟢 LOW | High voice preference, High frequency patterns |
+| Srujan_9959473744 | 🟢 LOW | High voice preference, High frequency patterns |
+
+🌐 NETWORK OBSERVATIONS
+
+• No direct inter-suspect communications found
+
+• Common contacts detected:
+  - Varshith_9704444251 & Srujan_9959473744: 6 shared contacts
+  - Varshith_9704444251 & Danial Srikakulam_9309347633: 1 shared contacts
+  - Srujan_9959473744 & Danial Srikakulam_9309347633: 4 shared contacts
+
+🎯 INVESTIGATION PRIORITIES
+
+Immediate Actions:
+
+Pattern Analysis Needed:
+• Tuesday/Friday activity spikes (cannabis transport days)
+
+Additional Data Required:
+• IPDR for Threema/Telegram detection
+• Bank statements (48-hour payment patterns)
+• SMS headers (financial alerts)
+• CAF/SDR (address verification)
+
+⚠️ CONCLUSION
+
+Moderate risk indicators detected. Continued monitoring recommended with focus on pattern evolution and network connections.
